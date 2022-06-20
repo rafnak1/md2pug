@@ -1,7 +1,7 @@
 from elements import *
 
 def markdownToObject(markdown_text):
-    pass
+    return Document()
 
 def objectToPug(document_object):
     pass
