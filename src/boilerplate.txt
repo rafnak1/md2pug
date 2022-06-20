@@ -1,0 +1,7 @@
+extends ../_layouts/default
+
+block content
+
+	.subtitle
+		h1
+			a(href='/wiki/web') &larr; #[a(href='') 
