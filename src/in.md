@@ -14,14 +14,14 @@ O `gobuster` tem três modos: `dns`, `dir` e `vhost`.
 
 #### Globais:
 
-- -t <threads>:
+- -t &lt;threads&gt;:
 	define o número de threads usadas para rodar o programa
-- -w/--wordlist <arquivo>:
+- -w/--wordlist &lt;arquivo&gt;:
 	define qual wordlist usar
 
 #### dir
 
-- -u/--url <url>:
+- -u/--url &lt;url&gt;:
 	define qual o alvo do ataque
 
 #### Exemplos:
